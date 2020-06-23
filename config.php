@@ -14,7 +14,7 @@ $config = array(
 	 * Proceed with extreme caution. We do not recommend setting this to true unless specifically instructed to by technical support
 	 */
 
-	"default" => "brawlstars",
+	"default" => "759360e",
 	/*
     * This is the default URI that is used when someone visits the root of the directory
     * The default is "install" - this is a keyword that stats the installation process
